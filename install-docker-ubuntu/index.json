@@ -1,0 +1,29 @@
+{
+    "noindex": true,
+    "title": "Docker installieren",
+    "description": "Installieren Sie Docker auf Ubuntu über die Kommandozeile",
+    "details": {
+        "steps": [
+            {
+                "title": "Schritt 1 - OS Update",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2",
+                "text": "step2.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "credits": ""
+        }
+    },
+    "files": [],
+    "environment": {
+        "hidefinish": true,
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu:2004"
+    }
+}
